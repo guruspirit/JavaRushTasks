@@ -1,12 +1,5 @@
 package com.javarush.task.task21.task2109;
 
-
-
-
-
-
-
-
 /* 
 Запретить клонирование
 */
